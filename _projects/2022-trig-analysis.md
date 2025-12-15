@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Analysis of Functions
-published: false
 description: Class project with Graphs
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
